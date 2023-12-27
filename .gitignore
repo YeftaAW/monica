@@ -5,7 +5,7 @@
 /data.ms
 /lang/php_*.json
 /node_modules
-/public/build
+!/public/build
 /public/docs
 /public/hot
 /public/storage
