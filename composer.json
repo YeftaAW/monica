@@ -28,6 +28,7 @@
     "laravel/socialite": "^5.5",
     "laravel/telescope": "^4.9",
     "laravel/tinker": "^2.7",
+    "mailersend/laravel-driver": "^2.3.1",
     "matriphe/iso-639": "^1.2",
     "meilisearch/meilisearch-php": "^1.0",
     "moneyphp/money": "^4.1",
